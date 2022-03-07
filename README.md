@@ -1,7 +1,19 @@
 # NTUNHS-find-project-mate
-找畢業專題組員的小專案
+## 找畢業專題組員的小專案
 
-這是資料庫的schema
+## Languages & deploy
+- backend: Python 3.10.2 Flask
+- frontend: PHP
+- 部署去哪裡: 應該是AWS或是Heroku
+## Linter
+- Python: pep8
+- PHP: ??
+- JavaScript: ??
+
+## How to use:
+`pip3 install pipenv`
+
+## 這是資料庫的schema
 \*\*\* = 流水號
 
 Account01 帳號資料表
