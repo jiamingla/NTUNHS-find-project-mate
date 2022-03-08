@@ -24,6 +24,7 @@ https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-com
 `python -m pipenv --version`  
 `python -m pipenv --python 3.10.2`  
 `python -m pipenv shell`  
+`pipenv install`  
 使用 pipenv 管理套件，Windows 不太好用，command line 也看不出此時在哪個虛擬環境，不過還行
 
 ## 讀了什麼文章
